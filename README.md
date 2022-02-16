@@ -1,5 +1,7 @@
 # コーディング面接対策
-コーディング面接対策の為のレポジトリ
+コーディング面接対策の為のレポジトリです．
+
+演習以外の内容は[CRACKING the CODING INTERVIEW](https://www.crackingthecodinginterview.com/)に基づいています．
 
 ## 使用言語
 - C/C++
