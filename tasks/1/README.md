@@ -3,3 +3,4 @@
 2. [順列チェック](https://github.com/KeiTaylor0606/CodingInterview/blob/main/tasks/1/2.cpp)
 3. [URLify](https://github.com/KeiTaylor0606/CodingInterview/blob/main/tasks/1/3.cpp)
 4. [回文の順列](https://github.com/KeiTaylor0606/CodingInterview/blob/main/tasks/1/4.cpp)
+5. [一発変換](https://github.com/KeiTaylor0606/CodingInterview/blob/main/tasks/1/5.cpp)
