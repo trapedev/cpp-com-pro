@@ -22,6 +22,7 @@ void insert(Node* v, Node* p){
     p->next = v;
 }
 ```
+具体的な処理は[こちら](https://github.com/KeiTaylor0606/CodingInterview/blob/main/essence/linked-list/insert.cpp)
 
 ### 削除操作
 ある特定のノードを削除したいとき，削除したいノードの前のノードを取得する必要がある．ここで，双方向連結リスト（各ノードを繋ぐポインタが双方向）を定義する．次のノードへのポインタ`*next`だけでなく前のノードへのポインタ`*prev`を自己参照構造体に持たせる．
@@ -34,6 +35,7 @@ struct Node
     Node(string name_ = "") : prev(NULL), next(NULL), name(name_) { }
 };
 ```
+具体的な処理は[こちら](https://github.com/KeiTaylor0606/CodingInterview/blob/main/essence/linked-list/delete.cpp)
 
 ## 配列と連結リストの比較
 | クエリ  |  配列  | 連結リスト | 
