@@ -19,6 +19,16 @@
 | ベクタ/配列リスト | クイックソート | ビック・オー記法，スペース |
 | ハッシュテーブル
 
+## その他のデータ構造・アルゴリズム・概念
+
+| データ構造 | アルゴリズム | 概念 |
+| ----------- | ---- | ---- |
+| Union-Find |  |  |
+| [セグメント木](https://github.com/KeiTaylor0606/CodingInterview/tree/main/others/data-structure/segment-tree#%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E6%9C%A8) |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
 ## [問題](https://github.com/KeiTaylor0606/CodingInterview/tree/main/tasks)
 - [Chapter1](https://github.com/KeiTaylor0606/CodingInterview/tree/main/tasks/1#%E9%85%8D%E5%88%97%E3%81%A8%E6%96%87%E5%AD%97%E5%88%97)
 
