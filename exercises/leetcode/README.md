@@ -23,7 +23,7 @@
     > [link](https://leetcode.com/problems/longest-common-prefix/)
 20. [Valid Parentheses](https://github.com/KeiTaylor0606/CodingInterview/blob/main/exercises/leetcode/20.cpp)
     > [link](https://leetcode.com/problems/valid-parentheses/)
-24. [Swap Nodes in Pairs](ttps://github.com/KeiTaylor0606/CodingInterview/blob/main/exercises/leetcode/24.cpp)
+24. [Swap Nodes in Pairs](https://github.com/KeiTaylor0606/CodingInterview/blob/main/exercises/leetcode/24.cpp)
     > [link](https://leetcode.com/problems/swap-nodes-in-pairs/)
 25. [Implement strStr()](https://github.com/KeiTaylor0606/CodingInterview/blob/main/exercises/leetcode/28.cpp)
     > [link](https://leetcode.com/problems/implement-strstr/)
